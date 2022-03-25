@@ -1,0 +1,21 @@
+header{
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+    background-color: black;
+    height: 100px;
+}
+#titre{
+    font-family: Georgia;
+    font-size: 16px;
+    background-color: cornflowerblue;
+}
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    text-align: center;
+    color: gold;
+}
+nav{
+    background-color: rgb(145, 139, 139);
+}
